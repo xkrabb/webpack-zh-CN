@@ -67,4 +67,4 @@ const config = {
 
 
 [`<<上一节:刷新CSS`](./Refreshing-CSS.md)
-[`>>下一章:最小化build（生产构建）`](./Enabling-Sourcemaps.md)
+[`>>下一章:压缩构建`](../Building-with-Webpack/Minifying-the-Build.md)
