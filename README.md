@@ -1,4 +1,6 @@
-参考自survivejs的webpack博客，并不是原文翻译，更多是学习笔记。
+webpack中文参考，webpack.config.js详细的介绍
+
+参考自survivejs的webpack博客，并不是原文翻译，更多是学习笔记形式，但是保留原文的代码部分。
 
 不够详尽的地方可以阅读原文，[原英文版连接](http://survivejs.com/webpack/introduction/)。
 
