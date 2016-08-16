@@ -1,4 +1,4 @@
-webpack中文参考，webpack.config.js详细的介绍
+webpack 中文参考，webpack.config.js详细的介绍
 
 参考自survivejs的webpack博客，并不是原文翻译，更多是学习笔记形式，但是保留原文的代码部分。
 
